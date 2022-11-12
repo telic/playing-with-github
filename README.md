@@ -1,5 +1,5 @@
 # playing-with-github
 
-This is the testing branch.
+This is the new testing branch.
 
 MORE README CONTENT.
